@@ -1,0 +1,21 @@
+networkx>=3.4
+python-dotenv
+pandas
+scikit-learn>=1.4.0 # there is a bug in 1.3 that causes f1 score to be wrong
+transformers==4.51.*
+sentencepiece
+ete3[treeview]
+spacy
+datasets
+sentence_transformers
+nltk
+dill
+hiclass==5.0.4
+openpyxl
+tf-keras
+numpy<1.27
+inflect
+torch==2.1.0
+datasets<4.0.0
+PyQt5
+ete3

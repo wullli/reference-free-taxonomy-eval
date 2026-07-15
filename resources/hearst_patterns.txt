@@ -1,0 +1,10 @@
+{hyponym_article} {hyponym} is a type of {hypernym}.
+{hyponym_article} {hyponym} is an example of {hypernym}.
+{hyponym_article} {hyponym} is {hypernym_article} {hypernym}.
+{hyponym_article} {hyponym} is a kind of {hypernym}.
+{hypernym_article} {hypernym} such as {hypernym_article} {hyponym}.
+Such {hypernym_plural} as {hyponym}.
+{hyponym_article} {hyponym} or other {hypernym_plural}.
+{hyponym_article} {hyponym} and other {hypernym_plural}.
+{hypernym_plural}, including {hyponym}.
+{hypernym_plural}, especially {hyponym}.
